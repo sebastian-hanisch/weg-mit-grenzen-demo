@@ -1,5 +1,7 @@
 # Ressourcenweg – der billigste Weg mit Grenze – Streamlit-Demo
 
+**[→ Demo live ausprobieren](https://sebastianhanisch-weg-mit-grenzen-demo.streamlit.app/)**
+
 Demo der Reihe „Ressourcenwege und Spaltenerzeugung“ in der „Konzepte“-Reihe der Website „Sebastian Hanisch – Operations Research und Machine Learning“. Sie ist der Einstieg in die Frage, wie man in einem Netz den **billigsten Weg findet, wenn die Zeit eine Grenze hat**. Das Vehikel ist ein Netz mit 7 Knoten, das sich von Hand nachrechnen lässt, und eine selbst erzeugte Kundeninstanz im Stil der Solomon-Benchmarks (nicht die Originalinstanzen), an der die Zahl der Labels gemessen wird. Solche Wegsuchen sind das Teilproblem („Pricing“) der Spaltenerzeugung, etwa in [crew-pairing-demo](https://github.com/sebastian-hanisch/crew-pairing-demo); diese Demo erklärt das Verfahren dahinter.
 
 ## Kernfrage
