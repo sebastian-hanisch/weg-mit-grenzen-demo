@@ -1,0 +1,113 @@
+{
+ "beschreibung": "Summe der Labels aller Pricing-Aufrufe einer Spaltenerzeugung bis zur Konvergenz; 30 Kunden, Zeitfenster der Breite 40/100/200, Kapazität 70, 6 Instanzen je Zelle. Rohzeilen einer früheren Messreihe, hier nur zusammengefasst, nicht neu gerechnet.",
+ "zeilen": [
+  {
+   "breite": 40,
+   "k": 1,
+   "instanzen": 6,
+   "labels_je_instanz": [
+    13224,
+    14747,
+    24248,
+    27482,
+    19130,
+    12211
+   ],
+   "labels_median": 16938.5,
+   "labels_mittel": 18507,
+   "labels_max": 27482,
+   "dominiert_mittel_prozent": 82.3,
+   "quelle": "out_v1_n30.txt: Zeilen mit n = 30, Fensterbreite 40, k = 1, Zufalls-Seeds 0 bis 5 der Messreihe"
+  },
+  {
+   "breite": 40,
+   "k": 5,
+   "instanzen": 6,
+   "labels_je_instanz": [
+    17122,
+    15822,
+    40811,
+    34751,
+    24687,
+    16578
+   ],
+   "labels_median": 20904.5,
+   "labels_mittel": 24961.8,
+   "labels_max": 40811,
+   "dominiert_mittel_prozent": 78.2,
+   "quelle": "out_v1_n30.txt: Zeilen mit n = 30, Fensterbreite 40, k = 5, Zufalls-Seeds 0 bis 5 der Messreihe"
+  },
+  {
+   "breite": 100,
+   "k": 1,
+   "instanzen": 6,
+   "labels_je_instanz": [
+    52481,
+    44946,
+    54898,
+    68349,
+    69898,
+    59761
+   ],
+   "labels_median": 57329.5,
+   "labels_mittel": 58388.8,
+   "labels_max": 69898,
+   "dominiert_mittel_prozent": 87.2,
+   "quelle": "out_v1_n30.txt: Zeilen mit n = 30, Fensterbreite 100, k = 1, Zufalls-Seeds 0 bis 5 der Messreihe"
+  },
+  {
+   "breite": 100,
+   "k": 5,
+   "instanzen": 6,
+   "labels_je_instanz": [
+    69427,
+    79899,
+    102222,
+    101198,
+    101266,
+    82877
+   ],
+   "labels_median": 92037.5,
+   "labels_mittel": 89481.5,
+   "labels_max": 102222,
+   "dominiert_mittel_prozent": 84.3,
+   "quelle": "out_v1_n30.txt: Zeilen mit n = 30, Fensterbreite 100, k = 5, Zufalls-Seeds 0 bis 5 der Messreihe"
+  },
+  {
+   "breite": 200,
+   "k": 1,
+   "instanzen": 6,
+   "labels_je_instanz": [
+    168380,
+    130562,
+    130609,
+    223226,
+    219281,
+    152533
+   ],
+   "labels_median": 160456.5,
+   "labels_mittel": 170765.2,
+   "labels_max": 223226,
+   "dominiert_mittel_prozent": 91.4,
+   "quelle": "out_v1_n30.txt: Zeilen mit n = 30, Fensterbreite 200, k = 1, Zufalls-Seeds 0 bis 5 der Messreihe"
+  },
+  {
+   "breite": 200,
+   "k": 5,
+   "instanzen": 6,
+   "labels_je_instanz": [
+    331838,
+    297985,
+    221942,
+    543446,
+    415073,
+    365969
+   ],
+   "labels_median": 348903.5,
+   "labels_mittel": 362708.8,
+   "labels_max": 543446,
+   "dominiert_mittel_prozent": 89.5,
+   "quelle": "out_v1_n30.txt: Zeilen mit n = 30, Fensterbreite 200, k = 5, Zufalls-Seeds 0 bis 5 der Messreihe"
+  }
+ ]
+}
